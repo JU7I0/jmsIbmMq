@@ -20,7 +20,7 @@ Este projeto é útil para desenvolvedores que necessitam integrar suas aplicaç
 ## 1. Configurar o IBM MQ:
  - Siga o tutorial neste link para configurar e iniciar o IBM MQ no Docker: https://developer.ibm.com/components/ibm-mq/tutorials/mq-connect-to-queue-manager-using-docker/ , 
 seguindo o tutorial é possivel criar um imagem do IBM MQ no docker para criar filas, canais e fazer consultas via console: https://localhost:9443/ibmmq/console , 
- - Login e Senha estão no arquivo application.properties, para projetos reais é não é indicado o uso de senhas explicitas no arquivo. 
+ - Login e Senha estão no arquivo application.properties. Para projetos reais não é indicado o uso de senhas explicitas no arquivo. 
  - Certifique-se de ter o Docker Desktop instalado e em execução.
 
 ## 2. Clonar o repositório:
